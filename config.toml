@@ -60,7 +60,7 @@ disableHugoGeneratorInject = true
   keywords = ""
   images = [""]
 
-  homeSubtitle = "DevOps Engineer"
+  homeSubtitle = "DevOps Engineer ⦁ Lyon, France"
 
   # Set a background for the homepage
   backgroundImage = "assets/images/avatar.png"
@@ -84,7 +84,7 @@ disableHugoGeneratorInject = true
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
   #
-  customCSS = []
+  customCSS = ["css/styles.css"]
   customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
@@ -129,7 +129,7 @@ disableHugoGeneratorInject = true
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-    path     = "/img/avatar.png"
+    path     = "/img/cyberhippo.png"
     alt      = "cyberhippo"
     maxWidth = "7em"
 
