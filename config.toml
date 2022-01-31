@@ -150,9 +150,9 @@ disableHugoGeneratorInject = true
     name = "linkedin"
     url  = "https://www.linkedin.com/in/hippolytevergnol/"
 
-  [[params.social]]
-    name = "dev"
-    url  = "https://tech.vergnol.eu/"
+  # [[params.social]]
+  #   name = "dev"
+  #   url  = "https://tech.vergnol.eu/"
 
   # [[params.social]]
   #   name = "stackoverflow"
