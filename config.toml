@@ -106,7 +106,7 @@ disableHugoGeneratorInject = true
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ cd /root/"
+    logoText     = "$ cat /root/flag.txt"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
